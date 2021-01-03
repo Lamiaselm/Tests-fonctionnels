@@ -1,0 +1,11 @@
+[0102/144650.893:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0102/154329.019:ERROR:process_info.cc(359)] UncheckedAllocate
+[0102/154329.088:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Temp\scoped_dir15528_228692370\Crashpad\attachments\28293f3e-e9bf-45cb-97d7-2dc994a305c0: Le chemin d’accès spécifié est introuvable. (0x3)
+[0102/154502.530:ERROR:process_info.cc(359)] UncheckedAllocate
+[0102/154503.030:ERROR:process_info.cc(359)] UncheckedAllocate
+[0102/154503.085:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Temp\scoped_dir14804_1936422261\Crashpad\attachments\ca86164a-f19a-48fe-9ea6-0913208afb7f: Le chemin d’accès spécifié est introuvable. (0x3)
+[0102/190103.954:ERROR:process_info.cc(359)] UncheckedAllocate
+[0102/190104.049:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Temp\scoped_dir816_1793515324\Crashpad\attachments\80b2de03-dac3-4254-a3f1-a8a157dfbfc3: Le chemin d’accès spécifié est introuvable. (0x3)
+[0102/190800.646:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0102/190800.649:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0102/190801.497:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
